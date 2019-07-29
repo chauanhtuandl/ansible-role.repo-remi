@@ -4,4 +4,4 @@
   become: true
 
   roles:
-    - role: geerlingguy.repo-remi
+    - role: ansible-role.repo-remi
