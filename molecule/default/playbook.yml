@@ -4,4 +4,4 @@
   become: true
 
   roles:
-    - role: ansible-role.repo-remi
+    - role: chauanhtuandl.repo-remi
