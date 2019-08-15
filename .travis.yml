@@ -4,7 +4,7 @@ services: docker
 
 env:
   global:
-    - ROLE_NAME: repo_remi
+    - ROLE_NAME: remi_repo
   matrix:
     - MOLECULE_DISTRO: centos7
     - MOLECULE_DISTRO: centos6

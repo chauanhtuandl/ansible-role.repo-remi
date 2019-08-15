@@ -4,4 +4,4 @@
   become: true
 
   roles:
-    - role: chauanhtuandl.repo-remi
+    - role: chauanhtuandl.remi_repo
