@@ -2,7 +2,7 @@
 dependencies: []
 
 galaxy_info:
-  role_name: remi_repo
+  role_name: repo_remi
   author: ansible-role
   description: Remi's RPM repository for RHEL/CentOS.
   company: "ansible-role"
